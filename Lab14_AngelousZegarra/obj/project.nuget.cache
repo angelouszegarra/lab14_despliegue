@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJRvRqjTKys=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tecsup\\RiderProjects\\Lab14_AngelousZegarra\\Lab14_AngelousZegarra\\Lab14_AngelousZegarra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tecsup\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",
+    "C:\\Users\\Tecsup\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

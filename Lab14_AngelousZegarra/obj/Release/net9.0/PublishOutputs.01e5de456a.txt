@@ -1,0 +1,9 @@
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Lab14_AngelousZegarra.exe
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Lab14_AngelousZegarra.dll
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Lab14_AngelousZegarra.deps.json
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Lab14_AngelousZegarra.runtimeconfig.json
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Lab14_AngelousZegarra.pdb
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tecsup\RiderProjects\Lab14_AngelousZegarra\Lab14_AngelousZegarra\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
